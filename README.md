@@ -1,7 +1,3 @@
-# Code Institute
+# This is a template for Jasmine Tests
 
-Welcome Ed,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Welcome!
